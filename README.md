@@ -54,4 +54,7 @@ These findings offer valuable insights for the tourism industry. Destinations ca
 You can view the full report/thesis for this project here: 
 [Enhancing Tourist Experience using Social Media Analysis and Deep Learning Techniques](https://drive.google.com/file/d/1tw4clEmHOwNhsRl3u25lomdlkVAco9WG/view?usp=sharing)
 
+## Dataset
+The dataset used in this project is publicly available on Kaggle:
 
+[Tweets about Travel(15/06/2009 - 01/04/2023)](https://www.kaggle.com/datasets/himanshikaura/travel-tweets20230401-20090615)
